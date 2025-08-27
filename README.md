@@ -1,5 +1,7 @@
-# curso-front-end-senai
+# Curso Front-End
 
-Aqui estão os códigos referentes ao curso de front-end do senai!!!!
+## Curso Front-End
 
-## vamos aprender!
+### Curso Front-End
+
+Esse é nosso _repositório_ de ~~back-end~~ **front-end**
