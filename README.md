@@ -1,4 +1,4 @@
-# Curso de FrontEnd Senai 2025
+# curso-front-end-senai
 
 Aqui estão os códigos referentes ao curso de front-end do senai!!!!
 
